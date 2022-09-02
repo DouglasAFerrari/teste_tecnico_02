@@ -1,0 +1,14 @@
+{ "columns":1,
+ "image":"doorTile.png",
+ "imageheight":50,
+ "imagewidth":50,
+ "margin":0,
+ "name":"doorTile",
+ "spacing":0,
+ "tilecount":1,
+ "tiledversion":"1.9.1",
+ "tileheight":50,
+ "tilewidth":50,
+ "type":"tileset",
+ "version":"1.8"
+}
