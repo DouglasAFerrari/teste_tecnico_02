@@ -1,16 +1,7 @@
-# pac_man
+# Projeto inicial do jogo Pac Man
 
-Jogo Pac Man
+# Teste técnico 02 - Escribo
 
-## Getting Started
+## Como executar o código:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- O código pode ser executado em IDE's instaladas em sua máquina e com extensão Dart, como por exemplo Android Studio e Visual Studio Code.
